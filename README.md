@@ -4,7 +4,7 @@
 
 **Day 19 / 30 - April Vibe Coding Challenge**
 
-## 🔗 [Live Demo](#)
+## 🔗 [Live Demo](https://organic-maths-quiz.vercel.app/)
 
 **Organic Maths Quiz** is a premium, ephemeral math mental agility game. Test your memory and calculation skills against the clock in a serene, high-end organic interface. Questions appear for a brief moment before vanishing entirely—force-testing your mental execution.
 
